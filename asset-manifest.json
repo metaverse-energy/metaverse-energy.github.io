@@ -1,17 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.58dbbe8c.css",
-    "main.js": "/static/js/main.f4c884b8.js",
+    "main.css": "/static/css/main.a5462a6d.css",
+    "main.js": "/static/js/main.284ebd38.js",
     "static/js/787.50cc5621.chunk.js": "/static/js/787.50cc5621.chunk.js",
+    "static/media/3.mp4": "/static/media/3.5a784d0d1ac138459119.mp4",
+    "static/media/2.mp4": "/static/media/2.de5b91b666ce96ec86c7.mp4",
+    "static/media/1.mp4": "/static/media/1.967c821cd3aee15797a5.mp4",
+    "static/media/4.mp4": "/static/media/4.5d9c504c1aa212a1d56b.mp4",
     "static/media/background.png": "/static/media/background.f6fd2482e84ba5e07f86.png",
-    "static/media/pngkit_play-png_4474.png": "/static/media/pngkit_play-png_4474.0cde905adf20812db287.png",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.1944c8d1a118759a4435.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/Montserrat-ExtraLight.ttf": "/static/media/Montserrat-ExtraLight.62a749ca2820713ebbf8.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
+    "static/media/Montserrat-Thin.ttf": "/static/media/Montserrat-Thin.4a799b111f608dbf4f89.ttf",
+    "static/media/Dolce Vita Light.ttf": "/static/media/Dolce Vita Light.bc128e9734c5e5e97825.ttf",
+    "static/media/Dolce Vita Heavy Bold.ttf": "/static/media/Dolce Vita Heavy Bold.8f9282a1904cb85fd4d5.ttf",
+    "static/media/play.png": "/static/media/play.0cde905adf20812db287.png",
     "index.html": "/index.html",
-    "main.58dbbe8c.css.map": "/static/css/main.58dbbe8c.css.map",
-    "main.f4c884b8.js.map": "/static/js/main.f4c884b8.js.map",
+    "main.a5462a6d.css.map": "/static/css/main.a5462a6d.css.map",
+    "main.284ebd38.js.map": "/static/js/main.284ebd38.js.map",
     "787.50cc5621.chunk.js.map": "/static/js/787.50cc5621.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58dbbe8c.css",
-    "static/js/main.f4c884b8.js"
+    "static/css/main.a5462a6d.css",
+    "static/js/main.284ebd38.js"
   ]
 }
