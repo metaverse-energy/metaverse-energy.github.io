@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.cd37f24a.js",
+    "main.js": "/static/js/main.105c9e07.js",
     "static/js/687.dc938b5a.chunk.js": "/static/js/687.dc938b5a.chunk.js",
     "static/js/942.4356cc5c.chunk.js": "/static/js/942.4356cc5c.chunk.js",
     "static/js/563.877fb005.chunk.js": "/static/js/563.877fb005.chunk.js",
@@ -18,13 +18,13 @@
     "static/media/telegram.svg": "/static/media/telegram.f3a1d66a4ba10831f07f86c58b8d8394.svg",
     "static/media/facebook.svg": "/static/media/facebook.30d0a97a86196ee4308249b3d508092c.svg",
     "index.html": "/index.html",
-    "main.cd37f24a.js.map": "/static/js/main.cd37f24a.js.map",
+    "main.105c9e07.js.map": "/static/js/main.105c9e07.js.map",
     "687.dc938b5a.chunk.js.map": "/static/js/687.dc938b5a.chunk.js.map",
     "787.82de9e9b.chunk.js.map": "/static/js/787.82de9e9b.chunk.js.map",
     "419.2af72480.chunk.js.map": "/static/js/419.2af72480.chunk.js.map",
     "163.709d2123.chunk.js.map": "/static/js/163.709d2123.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.cd37f24a.js"
+    "static/js/main.105c9e07.js"
   ]
 }
