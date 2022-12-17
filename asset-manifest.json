@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.227ca0d2.css",
-    "main.js": "/static/js/main.c5a34aea.js",
+    "main.css": "/static/css/main.1fe2819d.css",
+    "main.js": "/static/js/main.b359e723.js",
     "static/js/687.dc938b5a.chunk.js": "/static/js/687.dc938b5a.chunk.js",
     "static/js/942.4356cc5c.chunk.js": "/static/js/942.4356cc5c.chunk.js",
     "static/js/563.877fb005.chunk.js": "/static/js/563.877fb005.chunk.js",
@@ -9,7 +9,6 @@
     "static/js/419.2ebda385.chunk.js": "/static/js/419.2ebda385.chunk.js",
     "static/js/163.709d2123.chunk.js": "/static/js/163.709d2123.chunk.js",
     "static/media/bgV2.png": "/static/media/bgV2.21ccf72866ae904405bb.png",
-    "static/media/project-bg.png": "/static/media/project-bg.b79db0dcd81417c9acaa.png",
     "static/media/banner-bg.jpg": "/static/media/banner-bg.ef424a396f6be282227f.jpg",
     "static/media/footer-bg.jpg": "/static/media/footer-bg.5d593932cc878679961b.jpg",
     "static/media/icon-energy.png": "/static/media/icon-energy.2584e621503ddf344c6c.png",
@@ -19,11 +18,8 @@
     "static/media/card-bg-shape-big.png": "/static/media/card-bg-shape-big.5c83c70b2bc72cddceab.png",
     "static/media/icon-matter-70.png": "/static/media/icon-matter-70.e716f3d5892f310039ae.png",
     "static/media/icon-energy-70.png": "/static/media/icon-energy-70.e912d958692737504030.png",
-    "static/media/stone3.svg": "/static/media/stone3.fca8b79f654bde532183feab6b4d82fc.svg",
     "static/media/discord.svg": "/static/media/discord.f8356287ac0562f90b19bdde12833070.svg",
-    "static/media/stone2.svg": "/static/media/stone2.5f2e696acba6649e263ecc151b1340d7.svg",
     "static/media/twitter.svg": "/static/media/twitter.7fdc99d9abf21c3334b63a1274630fde.svg",
-    "static/media/stone1.svg": "/static/media/stone1.ea17a5b0bdb7278a62d3ff70712e1ea1.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.06175831b534132f24b57829dd2131ee.svg",
     "static/media/telegram.svg": "/static/media/telegram.f3a1d66a4ba10831f07f86c58b8d8394.svg",
     "static/media/medium.svg": "/static/media/medium.88b1df0cd4fba32a91140609053abfce.svg",
@@ -33,15 +29,15 @@
     "static/media/roadmapChackicon.svg": "/static/media/roadmapChackicon.9b7b9294314819ccc06c284950d348f4.svg",
     "static/media/rocketStar.svg": "/static/media/rocketStar.1247b11da407312fdcd5dcda1001ee50.svg",
     "static/media/munies.svg": "/static/media/munies.2d0eff257af597e1b2e805e5b72630bd.svg",
-    "main.227ca0d2.css.map": "/static/css/main.227ca0d2.css.map",
-    "main.c5a34aea.js.map": "/static/js/main.c5a34aea.js.map",
+    "main.1fe2819d.css.map": "/static/css/main.1fe2819d.css.map",
+    "main.b359e723.js.map": "/static/js/main.b359e723.js.map",
     "687.dc938b5a.chunk.js.map": "/static/js/687.dc938b5a.chunk.js.map",
     "787.82de9e9b.chunk.js.map": "/static/js/787.82de9e9b.chunk.js.map",
     "419.2ebda385.chunk.js.map": "/static/js/419.2ebda385.chunk.js.map",
     "163.709d2123.chunk.js.map": "/static/js/163.709d2123.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.227ca0d2.css",
-    "static/js/main.c5a34aea.js"
+    "static/css/main.1fe2819d.css",
+    "static/js/main.b359e723.js"
   ]
 }
